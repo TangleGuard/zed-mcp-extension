@@ -1,0 +1,11 @@
+[package]
+id = "tangleguard-mcp"
+name = "TangleGuard MCP"
+version = "0.0.1"
+schema_version = 1
+authors = ["Jan <kontakt@jaads.de>"]
+description = "TangleGuard MCP extension for code architecture analysis"
+repository = "https://github.com/TangleGuard/zed-mcp-server"
+
+[lib]
+kind = ["lsp"]
